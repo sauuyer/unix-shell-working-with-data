@@ -1,11 +1,9 @@
-#### File preperation
-Before the class, gain access to the data folder and put this "project_dir" onto your desktop
-
 #### Open your terminal 
 
 #### Explore project_dir
 1. cd Desktop
-2. cd project_dir
+2. git clone https://github.com/sauuyer/unix-shell-working-with-data
+2. cd unix-shell-working-with-data
 3. ls
 4. cd data/mimic...
     click tab to autocomplete the mimic folder name
