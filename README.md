@@ -11,3 +11,5 @@ Resources referenced in this class include:
 * Explainshell: https://explainshell.com
 * Unix / Linux Cheat Sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 * Linkedin Learning at Yale (search for Unix or Linux tutorial videos): https://your.yale.edu/work-yale/learn-and-grow/online-learning
+
+Delete change later
